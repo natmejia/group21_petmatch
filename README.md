@@ -26,9 +26,4 @@ No executable application is included at this stage.
 ## Team Name
 Group 21 – PetMatch Project
 
-## Instructor Requirements
-This repository includes:
-- README.md  
-- Three commit versions (initial setup, progress update, final version)  
-- Public access  
-- Link added to Basecamp Docs & Files
+
